@@ -11,7 +11,7 @@ public class NumerosImpares {
 
 
 
-            for (i = numInicial; i < numFinal; i++) {
+            for (i = numInicial; i <= numFinal; i++) {
 
                 if (i % 2 == 1) {
 

@@ -12,7 +12,7 @@ public class Main {
 
 
         numerosImpares.setNumInicial(1);
-        numerosImpares.setNumFinal(10);
+        numerosImpares.setNumFinal(11);
 
         numerosImpares.mostrarNumeros();
 
